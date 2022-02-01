@@ -7,5 +7,5 @@ Repositório destinado a armazenar projetos de desenvolvimento web
 <https://www.npmjs.com/package/axios>
 
 ## Projeto Art 
-Página criando para exibir osbras de grafite urbana 
+Página criando para exibir obras de grafite urbana 
 
